@@ -1,10 +1,5 @@
-let aged = true;
-let realAge = 0;
+let firstName = 'muriel!';
 
-if (aged) {
-  realAge = 4;
-}
+console.log(firstName.toUppercase());
 
-let dogAge = realAge * 7;
-
-console.log(`${dogAge} years`);
+console.log(firstName.lenght);

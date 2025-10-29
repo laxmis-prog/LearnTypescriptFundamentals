@@ -1,1 +1,2 @@
 let guess;
+guess = "green";
